@@ -11,3 +11,6 @@ POST http://127.0.0.1:8000/api/users/login/   - use the accepted login details(u
 POST http://127.0.0.1:8000/api/users/token/refresh/  -  copy the refresh token from the login to be used to generate a brand new access token for this token refresh test.
 
 Please note that this is the main branch, you may select the option of master branch to view the source codes for these JWT Authentication API operations.
+
+POSTMAN documentation LINK
+https://universal-astronaut-438943.postman.co/workspace/MY_FIRST_WORKSPACE~11e31e18-68b6-43fa-b115-9602519d48ea/collection/27321084-d60966b3-a2d5-46b2-9276-b7923e4b95f2?action=share&creator=27321084
